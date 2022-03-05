@@ -1,5 +1,5 @@
 ## planilha-controle-financeiro-moderna
-# Existe milhares de APP's e programas para o usuário ter um controle financeiro pessoal, porém na maioria das vezes tais programas são pagos ou complexos de mais para um usuário comum manusear, pensando nisso criei essa planilha no Excel com funções muito práticas e modernas que facilita o controle financeiro do usuário.
+Existe milhares de APP's e programas para o usuário ter um controle financeiro pessoal, porém na maioria das vezes tais programas são pagos ou complexos de mais para um usuário comum manusear, pensando nisso criei essa planilha no Excel com funções muito práticas e modernas que facilita o controle financeiro do usuário.
 
 - Para ter acesso a todas as funcionalidades da planilha deve baixar o arquivo .xlsm
 
